@@ -90,3 +90,7 @@ ENV/
 # mkdocs documentation
 /site
 
+#Default database
+*.sqlite3
+
+
