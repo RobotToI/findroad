@@ -91,6 +91,6 @@ ENV/
 /site
 
 #Default database
-*.sqlite3
+db.sqlite3
 
 
